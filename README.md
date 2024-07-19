@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hi there I'm WeakBee</h3>
+<h3 align="center">👋 Hi there I'm Ichwanul Muslim</h3>
 <p align="center">
   <a href="https://www.instagram.com/wanjaaiy/">Instagram</a>
 </p>
