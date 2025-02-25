@@ -5,7 +5,9 @@
 
 ---
 
-✨ Im a Intern studying Website Development passionate about making the web accessible to everyone and love developer communities.
+✨ Im a Web Developer & Digital Illustrator.
+
+Building Website, digital products, and experience.
 
 I love sharing my knowledge with others
 
